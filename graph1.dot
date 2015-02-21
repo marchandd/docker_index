@@ -1,0 +1,7 @@
+digraph docker
+{
+ "term_x11shared_sudoers_firefox" [label="term_x11shared_sudoers_firefox\nroot account",shape=box,fillcolor="dodgerblue4",style="filled,rounded", fontsize="10.0"];
+ "vncxvfb_wine_firefox" [label="vncxvfb_wine_firefox\nroot account",shape=box,fillcolor="dodgerblue",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_root_firefox" [label="term_ssh_root_firefox\nroot account",shape=box,fillcolor="deepskyblue4",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_user_firefox" [label="term_ssh_user_firefox\nnon root account",shape=box,fillcolor="deepskyblue",style="filled,rounded", fontsize="10.0"];
+}

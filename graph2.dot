@@ -1,0 +1,7 @@
+digraph docker
+{
+ "term_ssh_root_mono" [label="term_ssh_root_mono\nroot account",shape=box,fillcolor="seagreen",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_user_monodotnet45" [label="term_ssh_user_monodotnet45\nnon root account",shape=box,fillcolor="seagreen1",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_user_monodevelop" [label="term_ssh_user_monodevelop\nnon root account",shape=box,fillcolor="seagreen3",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_user_monodotnet45" -> "term_ssh_user_monodevelop";
+}

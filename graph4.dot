@@ -1,0 +1,8 @@
+digraph docker
+{
+ "term_ssh_root_antrenamer" [label="term_ssh_root_antrenamer\nroot account",shape=box,fillcolor="lightskyblue",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_root_freecommander" [label="term_ssh_root_freecommander\nroot account",shape=box,fillcolor="lightskyblue1",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_root_notepadplusplus" [label="term_ssh_root_notepadplusplus\nroot account",shape=box,fillcolor="lightskyblue2",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_root_todolist" [label="term_ssh_root_todolist\nroot account",shape=box,fillcolor="lightskyblue3",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_root_winmerge" [label="term_ssh_root_winmerge\nroot account",shape=box,fillcolor="lightskyblue4",style="filled,rounded", fontsize="10.0"];
+}

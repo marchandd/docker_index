@@ -1,7 +1,7 @@
 digraph docker
 {
  "vncxvfb_wine_firefox" [label="vncxvfb_wine_firefox\nroot account",shape=box,fillcolor="dodgerblue",style="filled,rounded", fontsize="10.0"];
- "vncxvfb_wine_portable-apps" [label="vncxvfb_wine_portable-apps\nroot account",shape=box,fillcolor="slateblue4",style="filled,rounded", fontsize="10.0"];
- "term_ssh_root_portable-apps" [label="term_ssh_root_portable-apps\nroot account",shape=box,fillcolor="slateblue",style="filled,rounded", fontsize="10.0"];
- "vncxvfb_wine_firefox" -> "vncxvfb_wine_portable-apps";
+ "vncxvfb_wine_portableapps" [label="vncxvfb_wine_portableapps\nroot account",shape=box,fillcolor="slateblue4",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_root_portableapps" [label="term_ssh_root_portableapps\nroot account",shape=box,fillcolor="slateblue",style="filled,rounded", fontsize="10.0"];
+ "vncxvfb_wine_firefox" -> "vncxvfb_wine_portableapps";
 }

@@ -1,6 +1,6 @@
 # Docker Containers Studies
 
-## Aim
+## Goal
 
 The goal of this approach is to provide Docker containers dedicated to facilitate Windows/Linux cross-over usage.
 
@@ -11,7 +11,7 @@ Studies are splitted into three domains :
  
 Experiment by yourself all approaches studies with the links below for Docker containers.
 
-### Mozilla Firefox (Method differences for GUI containers)
+### Mozilla Firefox (4 Method differences for GUI containers)
 
 Last version of Mozilla Firefox ready to use.
 
@@ -19,13 +19,15 @@ Last version of Mozilla Firefox ready to use.
 
 :checkered_flag: [VNC (root with xvfb & wine)](https://github.com/marchandd/vncxvfb_wine_firefox/ "VNC") with VNC protocol but not crypted... 
 
+Remote access and more secure with SSH protocol:
+
 :checkered_flag: [SSH (root)](https://github.com/marchandd/term_ssh_root_firefox/ "SSH") 
 
 :checkered_flag: [SSH (non root user)](https://github.com/marchandd/term_ssh_user_firefox/ "SSH") 
 
 ![Graph1](graph1.gif)
 
-### Mono Environment
+### Mono Environment (2 ways) and Editor (1)
 
 Since [Microsoft announced 11.12.2014](http://news.microsoft.com/2014/11/12/microsoft-takes-net-open-source-and-cross-platform-adds-new-development-capabilities-with-visual-studio-2015-net-2015-and-visual-studio-online/ "Microsoft announce"), .NET and Visual Studio Community are committed to supporting free and cross-platform, Mono won to be discovered in a Linux environment.  
 
@@ -41,11 +43,13 @@ Last version of Mono environment IDE ready to use.
 
 ![Graph2](graph2.gif)
 
-### Multiple Windows Portable-apps
+### Multiple Windows Portable-apps (2 ways)
 
-Windows Portable-apps samples easy to install, update and use.
+Windows Portable-apps samples easy to install, update and use with VNC.
 
 :checkered_flag: [Windows Portable-apps samples (VNC)](https://github.com/marchandd/vncxvfb_wine_portableapps/ "VNC") 
+
+Windows Portable-apps samples easy to install, update and use with SSH.
 
 :soon: [Wine (SSH root)](https://github.com/marchandd/term_ssh_root_wine/ "SSH")
 
@@ -53,7 +57,7 @@ Windows Portable-apps samples easy to install, update and use.
 
 ![Graph3](graph3.gif)
 
-### Specific Windows Portable-apps
+### Specific Windows Portable-apps (5)
 
 Windows Portable-apps samples dedicated easy to install, update and use.
 

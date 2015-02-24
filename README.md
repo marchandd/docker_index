@@ -1,13 +1,13 @@
-# Docker GUI Virtual Environment (VE) Studies
+# Docker GUI Virtual Environment Studies
 
 ## Goal
 
-The goal of this approach is to provide Docker GUI Virtual Environments dedicated to facilitate Windows/Linux cross-over usage.
+The goal of this approach is to provide Docker GUI Virtual Environments (VE) dedicated to facilitate Windows/Linux cross-over usage.
 
 Studies are splitted into three domains : 
 - Diversity of method differences to produce GUI VE to access to Firefox.
 - Mono environment to make possible to run Console or Gtk applications.
-- Windows Portable-apps (global or dedicated) running with Wine emulator.
+- Windows Portable-apps (grouped or dedicated samples) running with Wine emulator.
  
 SSH is more efficient ways but experiment by yourself all approaches studies with the links below for Docker images.
 
@@ -27,7 +27,7 @@ Remote access and more secure with SSH protocol:
 
 ![Graph1](graph1.gif)
 
-### Mono Environment (2 ways) and Editor (1 VE)
+### Mono Environment (2 ways) and Mono Editor (1 VE)
 
 Since [Microsoft announced 11.12.2014](http://news.microsoft.com/2014/11/12/microsoft-takes-net-open-source-and-cross-platform-adds-new-development-capabilities-with-visual-studio-2015-net-2015-and-visual-studio-online/ "Microsoft announce"), .NET and Visual Studio Community are committed to supporting free and cross-platform, Mono won to be discovered in a Linux environment.  
 
@@ -43,9 +43,9 @@ Last version of Mono environment IDE ready to use with SSH (more efficient).
 
 ![Graph2](graph2.gif)
 
-### Multiple samples Windows Portable-apps (2 ways)
+### Grouped samples Windows Portable-apps (2 ways)
 
-Windows Portable-apps multiple samples easy to install, update and use with VNC.
+Windows Portable-apps grouped samples easy to install, update and use with VNC.
 
 :checkered_flag: [Windows Portable-apps samples (VNC)](https://github.com/marchandd/vncxvfb_wine_portableapps/ "VNC") 
 

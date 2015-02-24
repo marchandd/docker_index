@@ -27,6 +27,8 @@ Last version of Mozilla Firefox ready to use.
 
 ### Mono Environment
 
+Since [Microsoft announced 11.12.2014](http://news.microsoft.com/2014/11/12/microsoft-takes-net-open-source-and-cross-platform-adds-new-development-capabilities-with-visual-studio-2015-net-2015-and-visual-studio-online/ "Microsoft announce"), .NET and Visual Studio Community are committed to supporting free and cross-platform, Mono won to be discovered in a Linux environment.  
+
 Last version of Mono environment ready to be exploited for Mono app.
 
 :checkered_flag: [Mono Docker official (SSH root)](https://github.com/marchandd/term_ssh_root_mono/ "SSH") A Docker official version but not mono-complete. 
@@ -44,6 +46,8 @@ Last version of Mono environment IDE ready to use.
 Windows Portable-apps samples easy to install, update and use.
 
 :checkered_flag: [Windows Portable-apps samples (VNC)](https://github.com/marchandd/vncxvfb_wine_portableapps/ "VNC") 
+
+:soon: [Wine (SSH root)](https://github.com/marchandd/term_ssh_root_wine/ "SSH")
 
 :soon: [Windows Portable-apps samples (SSH root)](https://github.com/marchandd/term_ssh_root_portableapps/ "SSH")
 

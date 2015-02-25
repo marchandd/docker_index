@@ -51,9 +51,9 @@ Windows Portable-apps grouped samples easy to install, update and use with VNC.
 
 Windows Portable-apps samples easy to install, update and use with SSH (more efficient).
 
-:soon: [Wine (SSH root)](https://github.com/marchandd/term_ssh_root_wine/ "SSH")
+:checkered_flag: [Wine (SSH root)](https://github.com/marchandd/term_ssh_root_wine/ "SSH")
 
-:soon: [Windows Portable-apps samples (SSH root)](https://github.com/marchandd/term_ssh_root_portableapps/ "SSH")
+:soon: [Windows Portable-apps samples (SSH root)](https://github.com/marchandd/term_ssh_wine_portableapps/ "SSH")
 
 ![Graph3](graph3.gif)
 
@@ -61,15 +61,15 @@ Windows Portable-apps samples easy to install, update and use with SSH (more eff
 
 Windows Portable-apps dedicated samples easy to install, update and use with SSH (more efficient).
 
-:soon: [Antp.be:copyright: AntRenamer Portable (SSH root)](https://github.com/marchandd/term_ssh_root_antrenamer/ "SSH") 
+:soon: [Antp.be:copyright: AntRenamer Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_antrenamer/ "SSH") 
 
-:soon: [Marek Jasinski:copyright: FreeCommander Portable (SSH root)](https://github.com/marchandd/term_ssh_root_freecommander/ "SSH")  
+:soon: [Marek Jasinski:copyright: FreeCommander Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_freecommander/ "SSH")  
 
-:soon: [Notepad++Team:copyright: Notepad++ Portable (SSH root)](https://github.com/marchandd/term_ssh_root_notepadplusplus/ "SSH") 
+:soon: [Notepad++Team:copyright: Notepad++ Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_notepadplusplus/ "SSH") 
 
-:soon: [AbstractSpoon:copyright: ToDoList Portable (SSH root)](https://github.com/marchandd/term_ssh_root_todolist/ "SSH") 
+:soon: [AbstractSpoon:copyright: ToDoList Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_todolist/ "SSH") 
 
-:soon: [Grimm-Thingamahoochie Software:copyright: WinMerge Portable (SSH root)](https://github.com/marchandd/term_ssh_root_winmerge/ "SSH") 
+:soon: [Grimm-Thingamahoochie Software:copyright: WinMerge Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_winmerge/ "SSH") 
 
 ![Graph4](graph4.gif)
 

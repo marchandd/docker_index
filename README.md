@@ -75,4 +75,8 @@ Windows Portable-apps dedicated samples easy to install, update and use with SSH
 
 ## Virtual Environment usage
 
-[License](LICENSE "License")
+[Test environments](https://github.com/marchandd/docker_index/blob/master/docs/test_environments.md "Tests")
+
+[Frequently asked questions](https://github.com/marchandd/docker_index/blob/master/docs/faq.md "FAQ")
+
+[Open-source license](LICENSE "License")

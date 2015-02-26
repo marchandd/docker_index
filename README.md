@@ -35,7 +35,7 @@ Last version of Mono environment ready to be exploited for Mono app with SSH (mo
 
 :checkered_flag: [Mono Docker official (SSH root)](https://github.com/marchandd/term_ssh_root_mono/ "SSH") A Docker official version but not mono-complete. 
 
-:checkered_flag: [Xamarin:copyright: Mono-complete install (SSH user)](https://github.com/marchandd/term_ssh_user_monodotnet45/ "SSH")
+:checkered_flag: [Xamarin:copyright: Mono-complete install (SSH user)](https://github.com/marchandd/term_ssh_user_monodotnet45/ "SSH") To have mono-complete install.
 
 Last version of Mono environment IDE ready to use with SSH (more efficient).
 
@@ -44,6 +44,10 @@ Last version of Mono environment IDE ready to use with SSH (more efficient).
 ![Graph2](graph2.gif)
 
 ### Grouped samples Windows Portable-apps (2 ways)
+
+Since 2013 buzz with Docker technology and since 2014 with Microsoft announcement to support free and cross-platform, and because I like Linux and Windows, that give me the idea to emulate Windows apps in Linux environment.  
+This is the reason why I searched an easy method to propose Portable-apps and now that is working I let you try by yourself.  
+[My Portable-apps approach explained but not boring !](https://github.com/marchandd/docker_index/blob/master/docs/portable-apps.md "Portable-apps")
 
 Windows Portable-apps grouped samples easy to install, update and use with VNC.
 

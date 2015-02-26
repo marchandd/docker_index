@@ -35,6 +35,8 @@ Docker is accessing on Windows only through VirtualBox network interface.
 So, using 127.0.0.1 is not possible...
 - You must choose Boot2Docker_IPv4 remained at boot start into the 
 dedicated console.
+First time you logged with Vnc-viewer:  
+- You can have unsecured channel warning message because SSL is not activated.
 
 ## SSH from Linux
 

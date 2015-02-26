@@ -8,15 +8,16 @@ Goal
 
 Use Docker container to install easily Windows apps on Linux environment.  
 Container permits to test apps into independent environment from the host 
-without have to install Wine emulator and VNC or SSH servers.  
-Dedicated to non-computer specialist user, scripts and commands are reduce to 
-minimum and SSL usage is not available.
+without have to install locally Wine emulator and VNC or SSH servers.  
+Dedicated to user non-computer specialist, scripts and commands are reduced to minimum.  
+VNC client: SSL usage is not available for have less software to install.
+SSL client: user & password usage is only available (not secret-key value).
 
 Only 10 minutes to have 5 Portable-Apps ready to run with only 10 scripts to 
-launch without parameter and 1 command line to run !
+launch without parameter and just 1 command line to run !
 
 Take precaution when you use it because portability is not guaranteed...  
-Samples software proposed are available with 50 to 100 % functional features 
+Software samples proposed are available with 50 to 100 % functional features 
 but it's sufficient to discover great software !  
 I recommend to use these great software in last version on Windows OS,
 but take advantage to discover them in isolated Linux environment into 
@@ -76,8 +77,7 @@ Scripting Zip-apps install and alias ready. Use default values to install.
 
 Script behaviours:
 - Remove older installed version software.
-- Unzip new version software and give permission to run it into target 
-  directory.
+- Unzip new version software and give permission to run it into target directory.
 - Remove older installed version alias.
 - Make new version software alias.
 - Install and running logs are save into files.
@@ -91,8 +91,7 @@ Use default values to install.
 Scripts behaviours:
 - Remove older installed version software.
 - Copy from /root/Downloads/ to a Wine installer directory.
-- Run new version installer and give permission to run it into target 
-  directory.
+- Run new version installer and give permission to run it into target directory.
 - Remove older installed version alias.
 - Make new version software alias.
 - Install and running logs are save into files.
@@ -100,7 +99,7 @@ Scripts behaviours:
 ### Don't remember alias activation !
 
 :warning: Alias have not automatic recognition:
-- Run source ~/.bashrc command to enable alias access from command line.
+- Run `source ~/.bashrc` command to enable alias access from command line.
 
 ### 1 minute when upgrading Portable-Apps versions !
 
@@ -109,5 +108,5 @@ Scripts behaviours:
 - Delete /root/Downloads/old versions XX Portable-Apps
 - Run /usr/local/sbin/install_XXPortable.sh
 - Run /usr/local/sbin/postInstall_AliasForXXPortable.sh (if EXE program).
-- Run source ~/.bashrc command to update alias.
+- Run `source ~/.bashrc` command to update alias.
 That all to do !

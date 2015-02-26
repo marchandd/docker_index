@@ -108,5 +108,5 @@ Scripts behaviours:
 - Delete /root/Downloads/old versions XX Portable-Apps
 - Run /usr/local/sbin/install_XXPortable.sh
 - Run /usr/local/sbin/postInstall_AliasForXXPortable.sh (if EXE program).
-- Run `source ~/.bashrc` command to update alias.
+- Run `source ~/.bashrc` command to update alias.  
 That all to do !

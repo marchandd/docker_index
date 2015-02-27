@@ -57,7 +57,7 @@ Windows Portable-apps samples easy to install, update and use with SSH (more eff
 
 :checkered_flag: [Wine (SSH root)](https://github.com/marchandd/term_ssh_root_wine/ "SSH")
 
-:soon: [Windows Portable-apps samples (SSH root)](https://github.com/marchandd/term_ssh_wine_portableapps/ "SSH")
+:checkered_flag: [Windows Portable-apps samples (SSH root)](https://github.com/marchandd/term_ssh_wine_portableapps/ "SSH")
 
 ![Graph3](graph3.gif)
 

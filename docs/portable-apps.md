@@ -10,7 +10,7 @@ Use Docker container to install easily Windows apps on Linux environment.
 Container permits to test apps into independent environment from the host 
 without have to install locally Wine emulator and VNC or SSH servers.  
 Dedicated to user non-computer specialist, scripts and commands are reduced to minimum.  
-VNC client: SSL usage is not available for have less software to install.
+VNC client: SSL usage is not available for have less software to install.  
 SSL client: user & password usage is only available (not secret-key value).
 
 Only 10 minutes to have 5 Portable-Apps ready to run with only 10 scripts to 
@@ -57,7 +57,7 @@ merge files and directories.
 - Give permission to run EXE and SH files.
 - Set up directory access.
 
-VNC session explanation
+Session explanation
 -----------------------
 
 ### 1 minute to set Wine emulator !

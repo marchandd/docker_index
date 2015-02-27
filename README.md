@@ -65,15 +65,15 @@ Windows Portable-apps samples easy to install, update and use with SSH (more eff
 
 Windows Portable-apps dedicated samples easy to install, update and use with SSH (more efficient).
 
-:soon: [Antp.be:copyright: AntRenamer Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_antrenamer/ "SSH") 
+:checkered_flag: [Antp.be:copyright: AntRenamer Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_antrenamer/ "SSH") 
 
-:soon: [Marek Jasinski:copyright: FreeCommander Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_freecommander/ "SSH")  
+:checkered_flag: [Marek Jasinski:copyright: FreeCommander Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_freecommander/ "SSH")  
 
-:soon: [Notepad++Team:copyright: Notepad++ Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_notepadplusplus/ "SSH") 
+:checkered_flag: [Notepad++Team:copyright: Notepad++ Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_notepadplusplus/ "SSH") 
 
-:soon: [AbstractSpoon:copyright: ToDoList Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_todolist/ "SSH") 
+:checkered_flag: [AbstractSpoon:copyright: ToDoList Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_todolist/ "SSH") 
 
-:soon: [Grimm-Thingamahoochie Software:copyright: WinMerge Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_winmerge/ "SSH") 
+:checkered_flag: [Grimm-Thingamahoochie Software:copyright: WinMerge Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_winmerge/ "SSH") 
 
 ![Graph4](graph4.gif)
 

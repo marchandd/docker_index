@@ -77,7 +77,11 @@ Windows Portable-apps dedicated samples easy to install, update and use with SSH
 
 ![Graph4](graph4.gif)
 
-## Virtual Environment usage
+## Virtual Environment usage documentations
+
+[GUI Virtual Environment Studies Docker images preparation on Linux Ubuntu](https://github.com/marchandd/docker_index/blob/master/docs/ubuntu_docker.md "Ubuntu Docker install")
+
+[GUI Virtual Environment Studies Docker images preparation on Microsoft Windows](https://github.com/marchandd/docker_index/blob/master/docs/windows_docker.md "Windows Docker install")
 
 [Test environments](https://github.com/marchandd/docker_index/blob/master/docs/test_environments.md "Tests")
 

@@ -14,11 +14,11 @@ Install all software to display GUI Virtual Environment Studies Docker images on
 
 ### Downloads
 
-[Docker](https://github.com/boot2docker/windows-installer/releases "Docker")
+[Docker:copyright:](https://github.com/boot2docker/windows-installer/releases "Docker")
 
-[GUI VNC client](http://www.realvnc.com/products/vnc/ "VNC")
+[GUI VNC:copyright: client](http://www.realvnc.com/products/vnc/ "VNC")
 
-[GUI SSH client](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html "SSH")
+[GUI PuTTY:copyright: SSH client](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html "SSH")
 
 
 ## Docker
@@ -27,7 +27,7 @@ Install all software to display GUI Virtual Environment Studies Docker images on
 
 - Launch docker-install.exe (with right click to run as an administrator).
 - Install by default on C:\Program Files\Boot2Docker for Windows.  
-- Choose Full install (Boot2Docker + VirtualBox + MSYS-git UNIX tools).  
+- Choose Full install (Boot2Docker:copyright: + VirtualBox:copyright: + MSYS-git:copyright: UNIX tools).  
 Don't forget to check "Add Boot2Docker.exe to path".  
 - When asked, accept to install Oracle Corporation bus controller driver.  
 - When asked, accept to install Oracle Corporation network driver 1.  

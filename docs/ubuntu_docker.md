@@ -14,7 +14,7 @@ Install all software to display GUI Virtual Environment Studies Docker images on
 - Processor that needs to support hardware virtualization.
 - Have at least 4 Gb RAM with 2Gb reserved to Docker VM.
 
-## Docker
+## Docker:copyright:
 
 ### Downloads
 
@@ -34,15 +34,15 @@ Install all software to display GUI Virtual Environment Studies Docker images on
 Display the version with command:  
 :computer: `docker -v`  
 
-## GUI VNC client install
+## GUI VNC:copyright: client install
 
 Main software are already installed with Ubuntu distributions but you can access to it with:  
-- On Gnome : Menu > Internet >  Terminal Server Client
-- On KDE : Kmenu > Internet > KRDC-VNC
+- On Gnome : Menu > Internet >  Terminal Server Client:copyright:
+- On KDE : Kmenu > Internet > KRDC-VNC:copyright:
 
 [For more details](https://help.ubuntu.com/community/VNC/Clients/ "VNC")
 
-## OpenSSH client
+## OpenSSH:copyright: client
 
 ### OpenSSH client install
 

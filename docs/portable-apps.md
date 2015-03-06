@@ -96,6 +96,12 @@ Scripts behaviours:
 - Make new version software alias.
 - Install and running logs are save into files.
 
+### Into Dedicated samples Windows Portable-app, only 1 script from install to launch !
+
+- Run one same aliasname.sh command in cyclic mode to run sub programs:  
+One run to set Wine emulator, one run to install and one run to launch.  
+- Alias is not available at the end of program. You have to make alias activation later.
+
 ### Don't remember alias activation !
 
 :warning: Alias have not automatic recognition:

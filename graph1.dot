@@ -1,10 +1,10 @@
 digraph docker
 {
  rankdir=LR;
- "term_x11shared_sudoers_firefox" [label="term_x11shared_sudoers_firefox\nroot account\nLocal\nLinux",shape=box,fillcolor="dodgerblue4",style="filled,rounded", fontsize="10.0"];
- "vncxvfb_wine_firefox" [label="vncxvfb_wine_firefox\nroot account\nLocal\nLinux/Windows",shape=box,fillcolor="dodgerblue",style="filled,rounded", fontsize="10.0"];
- "term_ssh_root_firefox" [label="term_ssh_root_firefox\nroot account\nLocal/Remote\nLinux/Windows",shape=box,fillcolor="deepskyblue4",style="filled,rounded", fontsize="10.0"];
- "term_ssh_user_firefox" [label="term_ssh_user_firefox\nnon root account\nLocal/Remote\nLinux/Windows",shape=box,fillcolor="deepskyblue",style="filled,rounded", fontsize="10.0"];
+ "term_x11shared_sudoers_firefox" [label="term_x11shared_sudoers_firefox\nroot account\nLocal\nLinux\n450 Mb",shape=box,fillcolor="dodgerblue4",style="filled,rounded", fontsize="10.0"];
+ "vncxvfb_wine_firefox" [label="vncxvfb_wine_firefox\nroot account\nLocal\nLinux/Windows\n1300 Mb",shape=box,fillcolor="dodgerblue",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_root_firefox" [label="term_ssh_root_firefox\nroot account\nLocal/Remote\nLinux/Windows\n500 Mb",shape=box,fillcolor="deepskyblue4",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_user_firefox" [label="term_ssh_user_firefox\nnon root account\nLocal/Remote\nLinux/Windows\n500 Mb",shape=box,fillcolor="deepskyblue",style="filled,rounded", fontsize="10.0"];
  "term_x11shared_sudoers_firefox" -> "term_ssh_root_firefox" [style="invis"];
  "term_x11shared_sudoers_firefox" -> "vncxvfb_wine_firefox" [style="invis"];
  "term_ssh_root_firefox" -> "term_x11shared_sudoers_firefox" [style="invis"];

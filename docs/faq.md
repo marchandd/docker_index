@@ -2,6 +2,10 @@
 
 Return to [index](https://github.com/marchandd/docker_index "Index")
 
+## Direct access
+
+Enter directly into container with [Nsenter](http://itsagooddaytobegeek.com/docker-ep-02-installation-de-nsenter/ "Nsenter")
+
 ## VNC access
 
 ### In case of crash

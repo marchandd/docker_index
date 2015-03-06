@@ -63,7 +63,8 @@ Windows Portable-apps samples easy to install, update and use with SSH (more eff
 
 ### Dedicated samples Windows Portable-app (5 VE)
 
-Windows Portable-apps dedicated samples easy to install, update and use with SSH (more efficient).
+Windows Portable-apps dedicated samples easy to install, update and use with SSH (more efficient).  
+:star2: Very easy way that take less than 5 minutes, you just have to run only 3 times one same command in cyclic mode to run sub programs and just 1 command line to active alias !
 
 :checkered_flag: [Antp.be:copyright: AntRenamer Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_antrenamer/ "SSH") 
 

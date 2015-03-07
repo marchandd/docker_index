@@ -1,9 +1,9 @@
 digraph docker
 {
- "vncxvfb_wine_firefox" [label="vncxvfb_wine_firefox\nroot account\nLocal\nLinux/Windows\n1300 Mb",shape=box,fillcolor="dodgerblue",style="filled,rounded", fontsize="10.0"];
+ "vncxvfb_wine_firefox" [label="vncxvfb_wine_firefox\nroot account\nLocal\nLinux/Windows\n1250 Mb",shape=box,fillcolor="dodgerblue",style="filled,rounded", fontsize="10.0"];
  "vncxvfb_wine_portableapps" [label="vncxvfb_wine_portableapps\nroot account\nLocal\nLinux/Windows\n1300 Mb",shape=box,fillcolor="slateblue4",style="filled,rounded", fontsize="10.0"];
- "term_ssh_root_wine" [label="term_ssh_root_wine\nroot account\nLocal/Remote\nLinux/Windows\n1400 Mb",shape=box,fillcolor="slateblue2",style="filled,rounded", fontsize="10.0"];
- "term_ssh_wine_portableapps" [label="term_ssh_wine_portableapps\nroot account\nLocal/Remote\nLinux/Windows\n1400 Mb",shape=box,fillcolor="slateblue",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_root_wine" [label="term_ssh_root_wine\nroot account\nLocal/Remote\nLinux/Windows\n1250 Mb",shape=box,fillcolor="slateblue2",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_wine_portableapps" [label="term_ssh_wine_portableapps\nroot account\nLocal/Remote\nLinux/Windows\n1300 Mb",shape=box,fillcolor="slateblue",style="filled,rounded", fontsize="10.0"];
  "vncxvfb_wine_firefox" -> "vncxvfb_wine_portableapps";
  "term_ssh_root_wine" -> "term_ssh_wine_portableapps";
 }

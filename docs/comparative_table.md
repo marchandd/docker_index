@@ -1,6 +1,6 @@
 # Comparative efficiency approach to provide Docker GUI Virtual Environments dedicated to facilitate Windows/Linux cross-over usage
 
-Return to [index](https://github.com/| marchandd/docker_index "Index")
+Return to [index](https://github.com/marchandd/docker_index "Index")
 
 ## Studies with focus on domains differences
 

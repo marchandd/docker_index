@@ -33,6 +33,7 @@ Softwares tested
 | Gold | Notepad++ Portable-app  
 | Gold | WinMerge Portable-app  
 | Gold | AntRenamer Portable-app  
+| Gold | 7-Zip Portable-app  
 
 Dockerfile explanation
 ----------------------
@@ -48,6 +49,7 @@ with multi-tools.
 - WinMerge by Dean P. Grimm / Thingamahoochie software to differencing and 
 merge files and directories.
 - AntRenamer by Antp.be to rename files and directories.
+- 7-Zip by 7-Zip developers to archive and extract supported a lot of formats with a powerfull File manager.
 
 ### Work-flow: 10 minutes to have 5 Portable-Apps ready to run !
 
@@ -70,6 +72,7 @@ Script behaviours:
 - Windows 7 environment set.
 - Disallow the window manager to decorate the windows.
 - Install mfc42 usage for Visual C++ 6 apps.
+- If '/data/' directory is presents into container, a symbolic link is created with "C:\users\Public\Documents" available on Windows Portable-apps.
 
 ### Few seconds for each Zip-apps install !
 

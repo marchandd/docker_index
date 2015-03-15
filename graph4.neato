@@ -7,6 +7,7 @@ digraph docker
  "term_ssh_wine_notepadplusplus" [label="term_ssh_wine_notepadplusplus\nroot account\nLocal/Remote\nLinux/Windows\n1250 Mb",shape=box,fillcolor="lightskyblue2",style="filled,rounded", fontsize="10.0"];
  "term_ssh_wine_todolist" [label="term_ssh_wine_todolist\nroot account\nLocal/Remote\nLinux/Windows\n1250 Mb",shape=box,fillcolor="lightskyblue3",style="filled,rounded", fontsize="10.0"];
  "term_ssh_wine_winmerge" [label="term_ssh_wine_winmerge\nroot account\nLocal/Remote\nLinux/Windows\n1250 Mb",shape=box,fillcolor="lightskyblue4",style="filled,rounded", fontsize="10.0"];
+ "term_ssh_wine_7zip" [label="term_ssh_wine_7zip\nroot account\nLocal/Remote\nLinux/Windows\n1250 Mb",shape=box,fillcolor="lightsteelblue2",style="filled,rounded", fontsize="10.0"];
  "term_ssh_root_wine" -> { "term_ssh_wine_antrenamer";  "term_ssh_wine_freecommander"; "term_ssh_wine_notepadplusplus"; 
- "term_ssh_wine_todolist"; "term_ssh_wine_winmerge"; }
+ "term_ssh_wine_todolist"; "term_ssh_wine_winmerge"; "term_ssh_wine_7zip"; }
 }

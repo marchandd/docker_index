@@ -46,14 +46,14 @@ Last version of Mono environment IDE ready to use with SSH (more efficient).
 ### Grouped samples Windows Portable-apps (2 ways)
 
 Since 2013 buzz with Docker technology and since 2014 with Microsoft announcement to support free and cross-platform, and because I like Linux and Windows, that give me the idea to emulate Windows apps in Linux environment.  
-This is the reason why I searched an easy method to propose Portable-apps and now that is working I let you try by yourself.  
+This is the reason why I searched an easy and reproductible method to propose Portable-apps and now that is working I let you try by yourself.  
 [My Portable-apps approach explained but not boring !](https://github.com/marchandd/docker_index/blob/master/docs/portable-apps.md "Portable-apps")
 
 Windows Portable-apps grouped samples easy to install, update and use with VNC.
 
 :checkered_flag: [Windows Portable-apps samples (VNC)](https://github.com/marchandd/vncxvfb_wine_portableapps/ "VNC") 
 
-Windows Portable-apps samples easy to install, update and use with SSH (more efficient).
+To prove than this method can be reproductible, Windows Portable-apps samples easy to install, update and use with SSH (more efficient).
 
 :checkered_flag: [Wine (SSH root)](https://github.com/marchandd/term_ssh_root_wine/ "SSH")
 
@@ -61,9 +61,9 @@ Windows Portable-apps samples easy to install, update and use with SSH (more eff
 
 ![Graph3](graph3.gif)
 
-### Dedicated samples Windows Portable-app (5 VE)
+### Dedicated samples Windows Portable-app (6 VE)
 
-Windows Portable-apps dedicated samples easy to install, update and use with SSH (more efficient).  
+A declination of the more efficient of reproductible method for Windows Portable-apps grouped samples, Windows Portable-apps dedicated samples easy to install, update and use with SSH.  
 :star2: Very easy way that take less than 5 minutes, you just have to run only 3 times one same command in cyclic mode to run sub programs and just 1 command line to active alias !
 
 :checkered_flag: [Antp.be:copyright: AntRenamer Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_antrenamer/ "SSH") 
@@ -76,6 +76,10 @@ Windows Portable-apps dedicated samples easy to install, update and use with SSH
 
 :checkered_flag: [Grimm-Thingamahoochie Software:copyright: WinMerge Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_winmerge/ "SSH") 
 
+Another way to prove than this method can be reproductible for Windows Portable-apps, new Portable-app (not included in grouped samples) running with the same adaptation concept just replacing some variables values in scripts headers.
+
+:checkered_flag: [7-Zip developers:copyright: 7-Zip Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_7zip/ "SSH") 
+
 ![Graph4](graph4.gif)
 
 ## Virtual Environment usage documentations
@@ -83,6 +87,8 @@ Windows Portable-apps dedicated samples easy to install, update and use with SSH
 [GUI Virtual Environment Studies Docker images preparation on Linux Ubuntu](https://github.com/marchandd/docker_index/blob/master/docs/ubuntu_docker.md "Ubuntu Docker install")
 
 [GUI Virtual Environment Studies Docker images preparation on Microsoft Windows](https://github.com/marchandd/docker_index/blob/master/docs/windows_docker.md "Windows Docker install")
+
+[Comparative table](https://github.com/marchandd/docker_index/blob/master/docs/comparative_table.md "Comparison")
 
 [Test environments](https://github.com/marchandd/docker_index/blob/master/docs/test_environments.md "Tests")
 

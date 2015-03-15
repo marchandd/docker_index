@@ -39,7 +39,7 @@ Common root account to Local/Remote access on Linux/Windows target with SSH Secu
 
 | marchandd/Docker image | Ext | Software | Size  
 | --- | --- | --- | ---   
-| term_ssh_wine_antrenamer | EXE | antrenamer 1250 Mb  
+| term_ssh_wine_antrenamer | EXE | antrenamer | 1250 Mb  
 | term_ssh_wine_freecommander | EXE | freecommander | 1250 Mb  
 | term_ssh_wine_notepadplusplus | EXE | notepadplusplus | 1250 Mb  
 | term_ssh_wine_todolist | ZIP | todolist | 1250 Mb  

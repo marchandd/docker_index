@@ -1,11 +1,14 @@
-# Docker:copyright: GUI Virtual Environment Studies
+# Docker:copyright: GUI Virtual Environment Proof of concept Studies
 
 ## Goal
 
-The goal of this approach is to provide Docker GUI Virtual Environments (VE) dedicated to facilitate Windows/Linux cross-over usage.
+Proof of concept was started for my job to reduce cost licence on Windows system and I choosen to accentuate by myself.  
+The goal of this approach is to provide Docker GUI Virtual Environments (VE) dedicated to facilitate Windows/Linux cross-over usage.  
+Allow Linux users who want to use a Windows application to run under Wine without the problems of version compatibility or graphics drivers.  
+I wanted to focus on solutions dedicated to Mono/Dotnet and Portable-Apps.
 
 Studies are splitted into three domains : 
-- Diversity of method differences to produce GUI VE to access to Firefox.
+- Diversity of method differences to produce GUI VE to access to Firefox. Choose the most better solutions for the other studies.  
 - Mono environment to make possible to run Console or Gtk applications.
 - Windows Portable-apps (grouped or dedicated samples) running with Wine emulator.
  
@@ -63,7 +66,7 @@ To prove than this method can be reproductible, Windows Portable-apps samples ea
 
 ### Dedicated samples Windows Portable-app (6 VE)
 
-A declination of the more efficient of reproductible method for Windows Portable-apps grouped samples, Windows Portable-apps dedicated samples easy to install, update and use with SSH.  
+A declination of the more efficient of reproductible method for Windows Portable-apps grouped samples, Windows Portable-apps dedicated samples easy to install last version directly (except for FreeCommander) and use with SSH.  
 :star2: Very easy way that take less than 5 minutes, you just have to run only 3 times one same command in cyclic mode to run sub programs and just 1 command line to active alias !
 
 :checkered_flag: [Antp.be:copyright: AntRenamer Portable (SSH root)](https://github.com/marchandd/term_ssh_wine_antrenamer/ "SSH") 

@@ -54,6 +54,7 @@ merge files and directories.
 ### Work-flow: 10 minutes to have 5 Portable-Apps ready to run !
 
 - Download software from file with all URLs inside.
+- Search last version for Portable-App to download (Dedicated samples Windows only).
 - Copy files scripts to install software in container into /root/Downloads 
   directory.
 - Give permission to run EXE and SH files.

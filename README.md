@@ -91,6 +91,8 @@ Another way to prove than this method can be reproductible for Windows Portable-
 
 [GUI Virtual Environment Studies Docker images preparation on Microsoft Windows](https://github.com/marchandd/docker_index/blob/master/docs/windows_docker.md "Windows Docker install")
 
+[My Portable-apps approach explained but not boring !](https://github.com/marchandd/docker_index/blob/master/docs/portable-apps.md "Portable-apps")
+
 [Comparative table](https://github.com/marchandd/docker_index/blob/master/docs/comparative_table.md "Comparison")
 
 [Test environments](https://github.com/marchandd/docker_index/blob/master/docs/test_environments.md "Tests")

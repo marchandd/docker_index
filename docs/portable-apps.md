@@ -28,7 +28,7 @@ Softwares tested
 
 | State | Portable-app  
 | --- | ---  
-| Silver | ToDoList ZIP-app  
+| Gold | ToDoList ZIP-app  
 | Silver | FreeCommander Portable-app  
 | Gold | Notepad++ Portable-app  
 | Gold | WinMerge Portable-app  

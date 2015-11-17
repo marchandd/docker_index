@@ -6,8 +6,8 @@ Return to [index](https://github.com/marchandd/docker_index "Index")
 
 ### Linux Host builder
 
-- KUbuntu (14.10)
-- Docker (1.4.1)
+- KUbuntu (15.10)
+- Docker (1.9.0)
 
 ### Remote GUI VNC client Linux
 
@@ -20,9 +20,9 @@ Return to [index](https://github.com/marchandd/docker_index "Index")
 ### Windows Host builder
 
 - Windows (7 & 8.1)
-- Boot2Docker (1.4.1)
-- VirtualBox (4.3.20)
-- MsysGit (1.9.4)
+- Docker Toolbox (1.9.0)
+- VirtualBox (5.0.9)
+- MsysGit (2.6.3)
 
 ### Remote GUI VNC client Windows
 
@@ -33,7 +33,7 @@ Return to [index](https://github.com/marchandd/docker_index "Index")
 Remark:  
 Docker is accessing on Windows only through VirtualBox network interface. 
 So, using 127.0.0.1 is not possible...
-- You must choose Boot2Docker_IPv4 remained at boot start into the 
+- You must choose Docker_IPv4 remained at boot start into the 
 dedicated console.
 First time you logged with Vnc-viewer:  
 - You can have unsecured channel warning message because SSL is not activated.
@@ -42,12 +42,12 @@ First time you logged with Vnc-viewer:
 
 ### Linux Host builder
 
-- KUbuntu (14.10)
-- Docker (1.4.1)
+- KUbuntu (15.10)
+- Docker (1.9.0)
 
 ### Remote Terminal SSH client Linux
 
-- KUbuntu (14.10)
+- KUbuntu (15.10)
 - ssh  
   Address -X root@IPv4 -p PORT
 
@@ -56,25 +56,25 @@ First time you logged with Vnc-viewer:
 ### Windows Host builder
 
 - Windows (7 & 8.1)
-- Boot2Docker (1.4.1)
-- VirtualBox (4.3.20)
-- MsysGit (1.9.4)
+- Docker Toolbox (1.9.0)
+- VirtualBox (5.0.9)
+- MsysGit (2.6.3)
 
 ### Remote GUI SSH client Windows
 
 :warning: Make sure X11 forwarding is enabled into SSH/X11 Configuration.
 
 - Windows (7 & 8.1)
-- Boot2Docker (1.4.1)
-- VirtualBox (4.3.20)
-- MsysGit (1.9.4)
+- Docker Toolbox (1.9.0)
+- VirtualBox (5.0.9)
+- MsysGit (2.6.3)
 - PuTTY (0.64)  
-  Address Boot2Docker_IPv4:PORT
+  Address Docker_IPv4:PORT
 
 Remark:  
 Docker is accessing on Windows only through VirtualBox network interface. 
 So, using 127.0.0.1 is not possible...  
-- You must choose Boot2Docker_IPv4 remained at boot start into the dedicated console.
+- You must choose Docker_IPv4 remained at boot start into the dedicated console.
 
 ## Docker containers
 
@@ -86,7 +86,7 @@ So, using 127.0.0.1 is not possible...
 
 Acces with Root account:
 - Ubuntu (14.10)
-- Wine (1.17.33)
+- Wine (1.17.50)
 - Winetricks with options:  
   win7
   mfc42

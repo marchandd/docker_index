@@ -12,7 +12,7 @@ Install all software to display GUI Virtual Environment Studies Docker images on
 - Processor that needs to support hardware virtualization.
 - Have at least 4 Gb RAM with 2Gb reserved to Docker VM.
 
-### Downloads
+### Downloads v1.4
 
 [Docker:copyright:](https://github.com/boot2docker/windows-installer/releases "Docker")
 

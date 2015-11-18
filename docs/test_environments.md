@@ -21,14 +21,14 @@ Return to [index](https://github.com/marchandd/docker_index "Index")
 
 - Windows (7 & 8.1)
 - Docker Toolbox (1.9.0)
-- VirtualBox (5.0.9)
-- MsysGit (2.6.3)
+- VirtualBox (5.0.8)
+- MsysGit (2.5.0)
 
 ### Remote GUI VNC client Windows
 
 - Windows (7 & 8.1)
 - Vnc-viewer (5.2.1)  
-  Address Boot2Docker_IPv4:PORT
+  Address Docker_IPv4:PORT
 
 Remark:  
 Docker is accessing on Windows only through VirtualBox network interface. 
@@ -57,8 +57,8 @@ First time you logged with Vnc-viewer:
 
 - Windows (7 & 8.1)
 - Docker Toolbox (1.9.0)
-- VirtualBox (5.0.9)
-- MsysGit (2.6.3)
+- VirtualBox (5.0.8)
+- MsysGit (2.5.0)
 
 ### Remote GUI SSH client Windows
 
@@ -66,10 +66,13 @@ First time you logged with Vnc-viewer:
 
 - Windows (7 & 8.1)
 - Docker Toolbox (1.9.0)
-- VirtualBox (5.0.9)
-- MsysGit (2.6.3)
-- PuTTY (0.64)  
+- VirtualBox (5.0.8)
+- MsysGit (2.5.0)
+- PuTTY:copyright: (0.64)  
   Address Docker_IPv4:PORT
+- Optional:  
+  XMing:copyright: (6.9)  
+  MobaXTerm:copyright: (8.2)
 
 Remark:  
 Docker is accessing on Windows only through VirtualBox network interface. 

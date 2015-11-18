@@ -28,11 +28,11 @@ Softwares tested
 
 | State | Portable-app  
 | --- | ---  
-| Gold | ToDoList ZIP-app  
+| Gold | AntRenamer Portable-app  
 | Silver | FreeCommander Portable-app  
 | Gold | Notepad++ Portable-app  
+| Gold | ToDoList ZIP-app  
 | Gold | WinMerge Portable-app  
-| Gold | AntRenamer Portable-app  
 | Gold | 7-Zip Portable-app  
 
 Dockerfile explanation
@@ -41,14 +41,14 @@ Dockerfile explanation
 ### Softwares ready to install after download
 
 Graphical user interface portable software presents are:
-- ToDoList by AbstractSpoon to manage Todo lists with tree-view and 
-calendar display.
+- AntRenamer by Antp.be to rename files and directories.
 - FreeCommander (old version) by Marek Jasinski to manage files and directories 
 with multi-tools.
 - Notepad++ by Notepad++Team to edit source code supporting several languages.
+- ToDoList by AbstractSpoon to manage Todo lists with tree-view and 
+calendar display.
 - WinMerge by Dean P. Grimm / Thingamahoochie software to differencing and 
 merge files and directories.
-- AntRenamer by Antp.be to rename files and directories.
 - 7-Zip by 7-Zip developers to archive and extract supported a lot of formats with a powerfull File manager.
 
 ### Work-flow: 10 minutes to have 5 Portable-Apps ready to run !

@@ -80,10 +80,12 @@ I recommended you to saved sessions for containers (without saving password).
 
 Sometimes SSH display causes difficulties and there are software that can greatly help you.  
 
+Xming to help export display  
 - Launch Xming-6-9-0-31-setup.exe (with right click to run as an administrator).  
 - Choose full installation.  
 - Install by default on C:\Program Files (x86)\Xming.  
 
+MobaXterm to help to manage SSH access  
 - Extract MobaXterm_v8.2.zip to C:\Program Files (x86)\ diretory.  
 - Launch MobaXterm_Personal_8.2.exe (with right click to run as an administrator).  
 - Click right on Saved sessions and select Import PuTTY sessions.

@@ -20,7 +20,7 @@ Install all software to display GUI Virtual Environment Studies Docker images on
 
 [GUI PuTTY:copyright: SSH client](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html "SSH")
 
-Optional for SSH
+Optional software for SSH
 
 [GUI XMing:copyright: client](http://www.straightrunning.com/XmingNotes/ "SSH+")
 
@@ -76,7 +76,7 @@ This is the best easy solution to stop/start containers.
 - Keep association between .PPK files.  
 I recommended you to saved sessions for containers (without saving password).
 
-### Optional softwares
+### Optional software
 
 Sometimes SSH display causes difficulties and there are software that can greatly help you.  
 

@@ -38,7 +38,7 @@ Last version of Mono environment ready to be exploited for Mono app with SSH (mo
 
 :checkered_flag: [Mono Docker official (SSH root)](https://github.com/marchandd/term_ssh_root_mono/ "SSH") A Docker official version but not mono-complete. 
 
-:checkered_flag: [Xamarin:copyright: Mono-complete install (SSH user)](https://github.com/marchandd/term_ssh_user_monodotnet45/ "SSH") To have mono-complete install.
+:checkered_flag: [Xamarin:copyright: Mono-complete install (SSH user)](https://github.com/marchandd/term_ssh_user_monodotnet45/ "SSH") To have mono-complete install with last versions.
 
 Last version of Mono environment IDE ready to use with SSH (more efficient).
 
@@ -87,15 +87,15 @@ Another way to prove than this method can be reproductible for Windows Portable-
 
 ## Virtual Environment usage documentations
 
-[GUI Virtual Environment Studies Docker images preparation on Linux Ubuntu](https://github.com/marchandd/docker_index/blob/master/docs/ubuntu_docker.md "Ubuntu Docker install")
-
-[GUI Virtual Environment Studies Docker images preparation on Microsoft Windows](https://github.com/marchandd/docker_index/blob/master/docs/windows_docker.md "Windows Docker install")
-
-[My Portable-apps approach explained but not boring !](https://github.com/marchandd/docker_index/blob/master/docs/portable-apps.md "Portable-apps")
+[My Portable-apps explained approach very interesting way (not boring !)](https://github.com/marchandd/docker_index/blob/master/docs/portable-apps.md "Portable-apps")
 
 [Comparative table](https://github.com/marchandd/docker_index/blob/master/docs/comparative_table.md "Comparison")
 
 [Test environments](https://github.com/marchandd/docker_index/blob/master/docs/test_environments.md "Tests")
+
+[GUI Virtual Environment Studies Docker images preparation on Linux Ubuntu](https://github.com/marchandd/docker_index/blob/master/docs/ubuntu_docker.md "Ubuntu Docker install")
+
+[GUI Virtual Environment Studies Docker images preparation on Microsoft Windows](https://github.com/marchandd/docker_index/blob/master/docs/windows_docker.md "Windows Docker install")
 
 [Frequently asked questions](https://github.com/marchandd/docker_index/blob/master/docs/faq.md "FAQ")
 

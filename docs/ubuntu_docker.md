@@ -4,7 +4,7 @@ Return to [index](https://github.com/marchandd/docker_index "Index")
 
 ## Goal
 
-Install all software to display GUI Virtual Environment Studies Docker images on Linux Ubuntu.
+Install all software to display GUI Virtual Environment Studies Docker images on Linux Ubuntu 14.04/15.10.
 
 :warning: All shell command are run under root account.
 
@@ -16,16 +16,25 @@ Install all software to display GUI Virtual Environment Studies Docker images on
 
 ## Docker:copyright:
 
-### Downloads v1.4
+### Downloads (> v1.7)
 
 :computer: `sudo su`  
-:computer: `apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 36A1D7869245C8950F966E92D8576A8BA88D21E9`  
-:computer: `sh -c "echo deb https://get.docker.io/ubuntu docker main\> /etc/apt/sources.list.d/docker.list"`  
+:computer: `sudo apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D`  
+For Ubuntu 14.04 only:  
+:computer: `sh -c "echo deb https://apt.dockerproject.org/repo ubuntu-trusty main\> /etc/apt/sources.list.d/docker.list"`  
+For Ubuntu 15.10 only:  
+:computer: `sh -c "echo deb https://apt.dockerproject.org/repo ubuntu-wily main\> /etc/apt/sources.list.d/docker.list"`  
 :computer: `sudo apt-get update`  
+Delete older version with:  
+:computer: `sudo apt-get purge lxc-docker`  
+Update with:  
+:computer: `sudo apt-get update`  
+And now you can prepare install:  
+:computer: `sudo apt-get install linux-image-extra-$(uname -r)`  
 
 ### Docker install
 
-:computer: `sudo apt-get install lxc-docker`  
+:computer: `sudo apt-get install docker-engine`  
 
 [For more details](https://docs.docker.com/installation/ubuntulinux/ "Installation")
 
